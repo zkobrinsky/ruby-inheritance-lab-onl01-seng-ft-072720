@@ -1,4 +1,4 @@
-requrie "pry"
+require "pry"
 
 class User
 
